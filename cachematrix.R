@@ -2,7 +2,7 @@
 ## calculating it or return the inverse if it has already been calculated.
 
 ## This function contains other functions that allow the user to cache the 
-## inverse of a given matrix.
+## inverse of a given matrix once it is calculated by cacheSolve.
 
 makeCacheMatrix <- function(x = matrix()) {
       i <- NULL
